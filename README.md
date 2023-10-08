@@ -6,7 +6,9 @@ another part of the project: You will write an app which will critique a given p
 
 Link for medium articel:
 
-Link for Colab:
+Link for Colab for prompt critique app:
+
+https://colab.research.google.com/github/saipragna25/Special_topics_Prompt-Engineering-assignment/blob/main/ST_prompt_eng_asgn_a_prompt_critique.ipynb
  
 
 
@@ -23,7 +25,9 @@ Then you will have refinement and iteration.
 
 Link for medium article:
 
-Link for colab:
+Link for colab notebook for prompt refining app:
+
+https://colab.research.google.com/github/saipragna25/Special_topics_Prompt-Engineering-assignment/blob/main/ST_prompt_eng_asgn_b_prompt_refining.ipynb
 
  
 
