@@ -4,6 +4,11 @@ apply this best practices in your custom domain for a full example.
 
 another part of the project: You will write an app which will critique a given prompt for all the missing information. Put gpt4 as expert prompt engineer and ask it to critique and provide clues on how to improve and suggest changes for improvements so user can accept
 
+chatgpt conversation for applying best practices in my custom domain for a full example:
+https://chat.openai.com/c/763e416b-32d2-44eb-a66f-1c87612f5550
+
+https://chat.openai.com/c/763e416b-32d2-44eb-a66f-1c87612f5550
+
 Link for medium articel:
 
 https://medium.com/@saipragna.kancheti/crafting-the-perfect-prompt-mastering-prompt-engineering-for-large-language-models-cde772c16aa8
