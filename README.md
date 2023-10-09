@@ -6,6 +6,8 @@ another part of the project: You will write an app which will critique a given p
 
 Link for medium articel:
 
+https://medium.com/@saipragna.kancheti/crafting-the-perfect-prompt-mastering-prompt-engineering-for-large-language-models-cde772c16aa8
+
 Link for Colab for prompt critique app:
 
 https://colab.research.google.com/github/saipragna25/Special_topics_Prompt-Engineering-assignment/blob/main/ST_prompt_eng_asgn_a_prompt_critique.ipynb
