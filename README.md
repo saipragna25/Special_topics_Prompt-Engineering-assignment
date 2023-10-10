@@ -29,6 +29,10 @@ customer  will be able to test end2end the prompt with samples
 
 Then you will have refinement and iteration.
 
+Link for Presentation Slides:
+
+https://docs.google.com/presentation/d/1aeYsvHlO7uSlF-njDoSnE7yXQ08MO4FxXrJ4X8pvuCY/edit?usp=sharing
+
 Link for medium article:
 
 Link for colab notebook for prompt refining app:
