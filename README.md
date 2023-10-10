@@ -35,6 +35,8 @@ https://docs.google.com/presentation/d/1aeYsvHlO7uSlF-njDoSnE7yXQ08MO4FxXrJ4X8pv
 
 Link for medium article:
 
+https://medium.com/@saipragna.kancheti/refining-user-prompts-with-gradio-and-openai-65bba5f21572
+
 Link for colab notebook for prompt refining app:
 
 https://colab.research.google.com/github/saipragna25/Special_topics_Prompt-Engineering-assignment/blob/main/ST_prompt_eng_asgn_b_prompt_refining.ipynb
