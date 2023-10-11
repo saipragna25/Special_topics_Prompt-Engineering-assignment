@@ -50,3 +50,5 @@ https://www.youtube.com/watch?v=bEWTwBGdUjY
 c) Write a full web app for prompt library with prompt search (use pinecone langchain library) - people can contribute the prompts nad search for prompts
 
 Link for Colab:
+
+https://colab.research.google.com/github/saipragna25/Special_topics_Prompt-Engineering-assignment/blob/main/ST_Pfompt_eng_asgn_c.ipynb
