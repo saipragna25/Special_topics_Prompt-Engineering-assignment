@@ -42,7 +42,9 @@ Link for colab notebook for prompt refining app:
 https://colab.research.google.com/github/saipragna25/Special_topics_Prompt-Engineering-assignment/blob/main/ST_prompt_eng_asgn_b_prompt_refining.ipynb
 
  
+Link for you tube video:
 
+https://www.youtube.com/watch?v=bEWTwBGdUjY
 
 
 c) Write a full web app for prompt library with prompt search (use pinecone langchain library) - people can contribute the prompts nad search for prompts
